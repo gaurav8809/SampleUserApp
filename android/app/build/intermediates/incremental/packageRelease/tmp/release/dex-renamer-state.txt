@@ -1,0 +1,4 @@
+#Sun Apr 25 01:07:38 IST 2021
+base.0=/Users/macnew2019_115/Desktop/DEV/MyInfoApp/MyInfoApp/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
